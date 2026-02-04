@@ -71,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya-mounika&show_icons=true&theme=default" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya-mounika" height="165">
 </p>
 
 ---
