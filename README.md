@@ -97,4 +97,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86AD6A,100:4CAF50&height=120&section=footer"/>
 </p>
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6N2t0ZzF0Z3BvZ2R3Z3B1c2U0aHJzNXk3N2JxYjN4cDk4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" 
+    width="300"
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavyanagamothu&show_icons=true&theme=transparent" height="165">
+  <img src="https://streak-stats.demolab.com?user=kavyanagamothu&theme=transparent" height="165">
+</p>
 ![education-logo-design-1](https://github.com/user-attachments/assets/cfeb63b1-51b7-4e8b-8832-21ca824180d3)
