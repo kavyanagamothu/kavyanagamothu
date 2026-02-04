@@ -98,3 +98,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86AD6A,100:4CAF50&height=120&section=footer"/>
 </p>
+![education-logo-design-1](https://github.com/user-attachments/assets/cfeb63b1-51b7-4e8b-8832-21ca824180d3)
