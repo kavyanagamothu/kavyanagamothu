@@ -71,8 +71,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavyanagamothu&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyanagamothu" height="165">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kavyanagamothu&show_icons=true&theme=transparent" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=kavyanagamothu&theme=transparent" 
+    height="165"
+  />
 </p>
 
 ---
