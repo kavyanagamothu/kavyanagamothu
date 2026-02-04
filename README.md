@@ -6,11 +6,8 @@
 <h3 align="center">🚀 Full Stack Developer | FastAPI | FlutterFlow | AWS</h3>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  <a href="https://github.com/kavyanagamothu?tab=followers">
+    <img src="https://img.shields.io/github/followers/kavyanagamothu?label=🌸%20Followers&style=for-the-badge&color=86AD6A" />
   </a>
 </p>
 
